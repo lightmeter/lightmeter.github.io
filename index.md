@@ -3,7 +3,7 @@ title: Light Meter Street
 layout: page
 order: 1
 ---
-##Light Meter - Street
+## Light Meter - Street
 
 > Easy to use but yet powerful iOS App built to make light metering just simple and effective.
 
@@ -13,7 +13,7 @@ The light meter offers an auto exposure mode that uses the great Apple camera ex
 
 The light meter offers an auto exposure mode that uses the great Apple camera exposure algorithm, or you just touch into your scene for spot measurement. In spot meter mode the exposure is locked and you can make your reading or investigate the scene for over and underestimations.
 
-###Highlights
+### Highlights
 
 - View multiple exposure combinations at first glance. No adjustment of time or aperture necessary
 - Highlight your target time and aperture and see their according combinations at first glance
