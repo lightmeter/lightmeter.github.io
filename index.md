@@ -1,6 +1,7 @@
 ---
 title: Light Meter Street Master
 layout: page
+order: 1
 ---
 
 ## Welcome to GitHub Pages
