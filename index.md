@@ -1,3 +1,7 @@
+---
+title: Light Meter Street Master
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lightmeter/lightmeter.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files. OK
