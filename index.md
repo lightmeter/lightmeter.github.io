@@ -1,5 +1,6 @@
 ---
 title: Light Meter Street Master
+layout: page
 ---
 
 ## Welcome to GitHub Pages
