@@ -3,8 +3,6 @@ title: Light Meter Street
 layout: page
 order: 1
 ---
-## Light Meter - Street
-
 > Easy to use but yet powerful iOS App built to make light metering just simple and effective.
 
 This app is a light meter designed for simplicity and easy to use. It offers you multiple time aperture combinations at once that match your scene. Just dial in your ISO and the matching exposure values are displayed. You can highlight your favourite time and aperture which makes the reading even faster, since your eye is lead to the matching exposure.
