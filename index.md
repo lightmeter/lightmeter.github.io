@@ -1,6 +1,6 @@
 ---
 title: Light Meter Street
-layout: default
+layout: home
 ---
 > Simple and easy to use but powerful iOS App built to make light metering simple and effective. A must have for every film photographer.
 
