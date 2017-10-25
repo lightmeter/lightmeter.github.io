@@ -1,5 +1,5 @@
 ---
 title: Blog - Light Meter Street
-layout: Home
+layout: home
 ---
 > Why not learn a bit from others best practice.
