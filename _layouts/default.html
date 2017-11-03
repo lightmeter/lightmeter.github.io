@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+    <script>
+      var pages = {
+      {% for post in site.posts %}
+        {% if post.lang == page.lang %}
+            '{{ post.url | relative_url }}': true,
+        {% endif %}
+      {% endfor %}
+      {% for page in site.pages %}
+        {% if page.lang == page.lang %}
+            '{{ page.url | relative_url }}': true,
+        {% endif %}
+      {% endfor %}
+      }
+
+      document.addEventListener("DOMContentLoaded", function(event) {
+        var path = window.location.pathname,
+            segments = path.split('/'),
+            filename = segments[segments.length -1] ? segments[segments.length -1].replace('.html', '') : 'index',
+            language = window.navigator.userLanguage || window.navigator.language,
+            prefix = language.split('-')[0],
+            newPath
+        if (prefix === 'de' && filename.indexOf('-de') === -1) {
+          newPath = (segments.length > 1 ? segments.slice(0, segments.length-2).join('/') : '/') + '/' + filename + '-de'
+          if (pages[newPath])
+            window.location.href = newPath
+        }
+      });
+    </script>
+
+    {% include header.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+  </body>
+
+</html>
