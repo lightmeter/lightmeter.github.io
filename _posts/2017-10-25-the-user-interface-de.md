@@ -1,32 +1,33 @@
 ---
 layout: post
-title:  "The user interface"
+title:  "Die Benutzeroberfläche"
 date:   2017-10-25
 categories: general
 lang: de
 ---
 ## Übersicht
 
-The goal of the user interface is to have a very simple user interface with basic to none user interactions for the measurement. For this reaason the only important setting is the ISO. Also only full stop aperture values are displayed. So if you'Re missing your 1.7 or 1.8 or 3.5 they were left away in order to make the user interface less distracting.
+Ein Ziel dieser App ist es so wenig wie möglich zum Messen einzustellen. Eigentlich ist nur die ISO Einstellung wichtig. Die Blenden- und Zeitmarkierungen sollen nur beim schnellen Ablesen helfen. Um das Ablesen zu erleichtern werden auch nur ganze Blendenstufen angezeigt wobei Zwischenwerte aber leicht abgelesen werden können.
 
-![user interface overview](/images/usability-overview.jpg "User interface overview")
+![user interface overview](/images/usability-overview.jpg "Benutzeroberfläche")
 
-1. Displays the exposure value of the last measurement. In simple words it is a number that represents the current ammount of light. Or a bit deeper look on [Wikipedia](https://en.wikipedia.org/wiki/Exposure_value). This number does real magic if your time is set to the ISO read more later.
+1. Zeigt den aktuell gemessenen Lichtwert an. In einfachen Worten ausgedrückt ist diese Zahl eine in der Fotografie verwendete Einheit um die aktuelle Lichtmenge zu messen. Das tolle an dem Lichtwert ist es, dass eine Reduzierung eines Lichtwerts einer Blendenstufe entspricht.
+So kann man mit etwas Übung seine Einstellungen von dem Lichtwert ableiten und man bekommt ein Gefühl für den Lichtwert der aktuellen Situation. Für mehr Details siehe [Wikipedia](https://de.wikipedia.org/wiki/Lichtwert)
 
-2. This is a textual representation that is associated with the exposure value. This is often referred to as Sunny 16 rule. Although you likely know what scene you're currently measuring, the text helps you to remember a small sentece and a more abstract number.
+2. Hier wird ein leicht zu merkender Text angezeigt, der dem aktuellen Lichtwert entspricht. Im Englischen werden diese Sätze mit der "Sunny 16" Regel verwendet.
 
-3. The all important ISO setting. Just touch the ISO setting of your current film or a bit higher if you're going to push the film. This setting is the *only* important setting. All other settings are automatically calculated for you.
+3. Die ISO Zahl *muss* eingestellt werden, da sich alle anderen Anzeigen auf diese Einstellung beziehen. Einfach auf die gewünchte Zahl drücken. Die App merkt sich diese Einstellung, so ist es wahrscheinlich, dass Sie häufig keine Einstellungen zum Messen vornehmen müssen.
 
-4. The time scale. It moves with the current measurement. You can select one of time settings so it will be visualized. I often set it to the focal lenght of my camera. E.g. for my 40mm lense rangefinder I select 60, so it gives me a visual hint of when I will risk blurry images through camera shake.
 
-5. The aperture scale. It moves just like te time scale with the current management. Also an apperture can be set here. I often select the minimal apertue. E.g. on my 1.7 range finder I'd select the 2.0 field.
+4. Die Verschlusszeit Achse. Diese Achse passt sich dem aktuell gemessenen Lichtwert an. Durch drücken auf eine Verschlusszeit kann diese markiert werden und hilft beim schnellen Ablesen. Eine gute Grundregel wäre es hier den nächsthöheren Wert ihrer Brennweite zu markieren. Eine Daumenregel sagt, dass langsamere Verschlusszeiten zu einer Verwackelung führen können. Bei einer 40mm Brennweite würde ich eine Verschlusszeit von mindestens 60 empfehlen.
 
-6. The measure button. Press to make continuous readings. Press again, will stop the camera and show you the last measurement taken.
-Hint: The camera consumes batttery life, so better stop reading when done.
+5. Die Blendenzahl Achse. Auch diese Achse passt sich automatisch der aktuellen Messung an. Ich empfehle hier die kleinste Blendenzahl Ihrer Linse einzustellen, denn so können sie schnell erkennen ob die aktuelle Situation genügend Licht für ihre verwendete Linse bereithält. Bei einer 1.8 Blendenzahl würde ich die Markierung auf 2.0 setzen.
 
-For reading just use combinations that are above each other. If you inspect the image above you see the following valid exposure combinations and all of them lead to the very same exposure.
+6. Der Messknopf. Mit diesem Knopf aktivieren Sie die kontinuierliche Messung der Belichtung oder frieren die aktuelle Messung ein. Tipp: Wenn Sie nicht messen spart dies strom und verlängert die Restlaufzeit.
 
-| Time |Aperture|
+Alle Verschlusszeiten und Blendenzahlen die übereinanderstehen sind gültige Einstellungen für die aktuelle Messung. Wenn Sie das Bild von oben genauer ansehen werden Sie feststellen, dass die folgenden Kombinationen für die Messung verwendet werden können.
+
+| Verschlusszeit |Blendenzahl|
 | ----:|--------|
 | 4000 | 1.4    |
 | 2000 | 2      |
