@@ -10,8 +10,6 @@ This app is a light meter designed for simplicity and ease of use. It offers you
 
 > Time settings tip: Dial in the lenses focal length as time, so camera shake is reduced. e.g. for a *50mm* lens dial in *60* which is the closest matching time
 
-The above tips show you a range of possible exposures that all lead to the same exposure.
-
 Bokeh lovers choose the smallest possible aperture whereas landscape photographers often tend to the largest aperture that is possible without camera shake.
 
 The light meter offers an auto exposure mode that uses the Apple camera exposure algorithm, or you just touch into your scene for spot measurement. In spot meter mode the exposure is locked and you can make your reading or investigate the scene for over and underestimations.
@@ -21,10 +19,12 @@ The light meter offers an auto exposure mode that uses the Apple camera exposure
 - View multiple exposure combinations at a glance. No adjustment of time or aperture necessary
 - Highlight your preferred time and aperture and see their according combinations at first glance
 - Remembers your last measurement and allows you to change ISO and other settings
-- Offers locked metering and automatic exposure measurement
+- Offers locked spot metering and automatic exposure measurement
 - Shows the sunny 16 rule matching to the measured light which is great to train your light metering abilities
 - Shows the measured light in exposure value (EV)
 - Shows full step time and aperture values only and makes your reading and setting your exposure fast and less irritating
 - Saves battery and makes reading more relaxed since it offers you to stop reading the scene. If stopped the camera is will not consume energy.
 
 > Remember: a light meter assumes you measure an average grey scene. This is especially important if you decide for spot metering. If you e.g. spot meter a white wall, the final image will be exposed grey.
+
+> Since the app is designed for simplicity there is no flash metering, incident metering or front camera support.

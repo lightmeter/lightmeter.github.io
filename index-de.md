@@ -5,30 +5,27 @@ lang: de
 ---
 > Leistungsstarke und leicht zu bedienende und iOS App gemacht um Lichtmessungen schnell abzulesen. Speziell auf die Bedürfnisse von Analogfotografen konzipiert.
 
-Diese App ist konzipiert für eine einfache und schnelle Benutzung. Sie stellt gleichzeitig alle möglichen Verschlusszeit und Blendenzahl Kombinationen dar, die dem aktuellen Licht entsprechen. Sie müssen nur die ISO eingeben und alle weiteren Werte werden automatisch angezeigt.
+Diese App ist konzipiert für eine einfache und schnelle Benutzung. Sie stellt gleichzeitig alle möglichen Verschlusszeit und Blendenzahl Kombinationen dar, die dem aktuellen Licht entsprechen. Sie müssen nur die ISO eingeben und alle weiteren Werte werden automatisch angezeigt. Zusätzlich kann eine Verschlusszeit und Blendenzahl ausgewählt werden. Diese helfen Ihnen beim schnellen Ablesen der Belichtung.
 
+> Tipp: Wählen Sie die kleinste Blendenzahl Ihres aktuellen Objektivs. So können Sie schnell erkennen, ob aktuell genügend Licht vorhanden ist. Sollte ihr Objektiv nicht eine ganze Blendenstufen anzeigen, so wählen Sie einfach die nächsthöhere Zahl. Beispiel: Für eine Blendenzahl von *3.5* wäre *4.0* eine gute Einstellung.
 
-This app is a light meter designed for simplicity and ease of use. It offers you multiple time/aperture combinations at once that match your scene. Just dial in your ISO and the matching exposure value is displayed. You can highlight your favourite time and aperture which makes the reading even faster, since your eye is lead to the matching exposure.
+> Tipp: Wählen sie die Verschlusszeit die Ihrer aktuellen Brennweite am nächsten liegt aus. Eine Daumenregel besagt, dass Sie wahrscheinlich verwackeln, wenn Sie diesen Wert unterschreiten. Beispiel: Bei einer *50mm* Brennweite wäre *60* eine gute Verschlusszeit.
 
-> Aperture settings tip: Select the minimum aperture you want to use or your lens supports. If your lens minumum aperture is not a full stop like e.g. 1.7, 1.8 or 3.5 simply use the next lower value.
+Wenn Sie Bokeh, also eine geringe Tiefenschärfe lieben, wählen Sie die kleinste mögliche Blendenzahl aus. Wenn Sie jedoch Landschaften fotografieren möchten und einen weiten Bereich scharf darstellen wollen sollten Sie eine höhere Blendenzahl wählen.
 
-> Time settings tip: Dial in the lenses focal length as time, so camera shake is reduced. e.g. for a *50mm* lense dial in *60* which is the closest matching time
-
-The above tips show you a range of possible exposures that all lead to the same exposure.
-
-Bokeh lovers choose the smallest possible aperture wheras landscape photographers often tend to the largest aperture that is possible without camera shake.
-
-The light meter offers an auto exposure mode that uses the Apple camera exposure algorithm, or you just touch into your scene for spot measurement. In spot meter mode the exposure is locked and you can make your reading or investigate the scene for over and underestimations.
+Diese App verwendet entweder den automatischen Blichtungsalgorithmus der Apple Kamera oder erlaubt genaue Spotmessungen indem Sie eine beliebige Stelle im Bild anwählen.
 
 ### Highlights
 
-- View multiple exposure combinations at a glance. No adjustment of time or aperture necessary
-- Highlight your prefered time and aperture and see their according combinations at first glance
-- Remembers your last measurement and allows you to change ISO and other settings
-- Offers locked metering and automatic exposure measurement
-- Shows the sunny 16 rule matching to the measured light which is great to train your light metering abilities
-- Shows the measured light in exposure value (EV)
-- Shows full step time and aperture values only and makes your reading and setting your exposure fast and less irritating
-- Saves battery and makes reading more relaxed since it offers you to stop reading the scene. If stopped the camera is will not consume energy.
+- Mehrere Belichtungseinstellungen sind auf einem Blick ablesbar. Sie müssen nicht kompliziert Verschlusszeiten oder Blendenzahlen anpassen.
+- Sie können favorisierte Blenden und Verschlusszeiten einstellen um diese auf den ersten Blick zu erfassen.
+- Merkt sich die letzte Messung und erlaubt an diser die ISO und andere Einstellungen zu ändern.
+- Erlaubt Sportmessungen und automatische Messungen
+- Zeigt einen Merksatz für die aktuelle Beleuchtung an. So können Sie sich leicht Belichtungen merken und trainieren so Gefühl für die aktuelle Lichtsituation. Dies wird häufig Sunny-16 Regel genannt.
+- Zeigt den Lichtwert (LW) der aktuellen Messung an. Auch diese Zahl können Sie sich leichter einprägen und hilft Ihnen sich bestimmte Einstellungen zu merken.
+- Zeigt nur ganze Blendenstufen an und erlaubt es Ihnen so schnell die richtigen Einstellungen zu erfassen.
+- Spart Energie denn die Kamera wird nur dann eingeschaltet, wenn Sie messen.
 
-> Remember: a light meter assumes you measure an average grey scene. This is especially important if you decide for spot metering. If you e.g. spot meter a white wall, the final image will be exposed grey.
+> Tipp: Lichtmesser sind immer auf ein mittleres Grau geeicht. Beachten und nutzen Sie diese Eigenschaft besonders bei Spotmessungen.
+
+> Diese App ist speziell für ein schnelles und einfaches Ablesen entwickelt worden. Daher werden Funktionen wie Blitzmessungen, Umgebungslichtmessung und Frontkamera nicht unterstützt.
