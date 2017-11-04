@@ -23,7 +23,9 @@ So kann man mit etwas Übung seine Einstellungen von dem Lichtwert ableiten und 
 
 5. Die Blendenzahl Achse. Auch diese Achse passt sich automatisch der aktuellen Messung an. Ich empfehle hier die kleinste Blendenzahl Ihrer Linse einzustellen, denn so können sie schnell erkennen ob die aktuelle Situation genügend Licht für ihre verwendete Linse bereithält. Bei einer 1.8 Blendenzahl würde ich die Markierung auf 2.0 setzen.
 
-6. Der Messknopf. Mit diesem Knopf aktivieren Sie die kontinuierliche Messung der Belichtung oder frieren die aktuelle Messung ein. Tipp: Wenn Sie nicht messen spart dies strom und verlängert die Restlaufzeit.
+6. Spotmessung. Drücken Sie auf das Bild um an dieser Position eine Spotmessung vorzunehmen. Wenn Sie auf erneut auf das Symbol drücken wird die normale Messung wieder aktiviert. Eine Spotmessung hilft zum Beispiel um Schatten aufzuhellen oder low-key Aufnahmen zu erstellen, wenn Sie auf hellere Stellen drücken.
+
+7. Der Messknopf. Mit diesem Knopf aktivieren Sie die kontinuierliche Messung der Belichtung oder frieren die aktuelle Messung ein. Tipp: Wenn Sie nicht messen spart dies strom und verlängert die Restlaufzeit.
 
 Alle Verschlusszeiten und Blendenzahlen die übereinanderstehen sind gültige Einstellungen für die aktuelle Messung. Wenn Sie das Bild von oben genauer ansehen werden Sie feststellen, dass die folgenden Kombinationen für die Messung verwendet werden können.
 

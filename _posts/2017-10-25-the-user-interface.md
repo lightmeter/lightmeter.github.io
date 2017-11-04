@@ -20,7 +20,9 @@ The goal of the user interface is to have a very simple user interface with basi
 
 5. The aperture scale. It moves just like te time scale with the current management. Also an aperture can be set here. I often select the minimal aperture. E.g. on my 1.7 range finder I'd select the 2.0 field.
 
-6. The measure button. Press to make continuous readings. Press again, will stop the camera and show you the last measurement taken.
+6. Spot metering. Press anywhere on the camera image in order to spot meter this area. Pressing on the spot meter icon again will return to normal metering. This functionality helps you to measure for the shadows or create low-key images if you press on light areas.
+
+7. The measure button. Press to make continuous readings. Press again, will stop the camera and show you the last measurement taken.
 Hint: The camera consumes battery life, so better stop reading when done.
 
 For reading just use combinations that are above each other. If you inspect the image above you see the following valid exposure combinations and all of them lead to the very same exposure.
