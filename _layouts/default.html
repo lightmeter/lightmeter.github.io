@@ -28,7 +28,7 @@
         if (prefix === 'de' && filename.indexOf('-de') === -1) {
           newPath = (segments.length > 1 ? segments.slice(0, segments.length-2).join('/') : '/') + '/' + filename + '-de.html'
           if (pages[newPath])
-            window.location.href = newPath
+            setTimeout(function () {window.location.href = newPath}, 200)
         }
       });
     </script>
