@@ -7,14 +7,10 @@
     <script>
       var pages = {
       {% for post in site.posts %}
-        {% if post.lang == page.lang %}
-            '{{ post.url | relative_url }}': true,
-        {% endif %}
+        '{{ post.url | relative_url }}': true,
       {% endfor %}
       {% for page in site.pages %}
-        {% if page.lang == page.lang %}
-            '{{ page.url | relative_url }}': true,
-        {% endif %}
+        '{{ page.url | relative_url }}': true,
       {% endfor %}
       }
 
@@ -26,9 +22,9 @@
             prefix = language.split('-')[0],
             newPath
         if (prefix === 'de' && filename.indexOf('-de') === -1) {
-          newPath = (segments.length > 1 ? segments.slice(0, segments.length-2).join('/') : '/') + '/' + filename + '-de.html'
+          newPath = (segments.length > 1 ? segments.slice(0, segments.length-1).join('/') : '/') + '/' + filename + '-de.html'
           if (pages[newPath])
-            setTimeout(function () {window.location.href = newPath}, 200)
+            window.location.href = newPath
         }
       });
     </script>
