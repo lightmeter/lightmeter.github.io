@@ -18,6 +18,14 @@ E-mail: webmaster@oliverbojahr.de
 
 Internet: [lightmeter.github.io](https://lightmeter.github.io)
 
+
+## Über die Inhalte des Blogs
+
+Wir übernehmen keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Die auf dieser Website von uns veröffentlichten Inhalte und Werke sind urheberrechtlich geschützt. Jede vom deutschen Urheberrecht nicht zugelassene Verwertung bedarf der vorherigen schriftlichen Zustimmung von uns (des jeweiligen Autors oder Urhebers). Dies gilt für die Vervielfältigung, die Bearbeitung, die Übersetzung, die Einspeicherung, die Verarbeitung bzw. die Wiedergabe von Inhalten in Datenbanken oder anderen elektronischen Medien und Systemen. Inhalte und Beiträge Dritter sind dabei als solche gekennzeichnet. Die unerlaubte Vervielfältigung oder Weitergabe einzelner Inhalte oder kompletter Seiten ist nicht gestattet und strafbar. Die Inhalte der Texte sind von uns. Andere Autoren werden extra angegeben. Die Inhalte der von uns erstellten Texte beruhen auf unseren Erfahrungen und Erkenntnissen.
+
+Anfragen zur Nutzung von Texten und Fotos bitte an: webmaster@oliverbojahr.de, Ansprechpartner ist Oliver Bojahr
+
+
 ## Imprint and Disclaimer
 
 ### Content of the online publication

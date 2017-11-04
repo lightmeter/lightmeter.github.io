@@ -3,8 +3,10 @@ title: Light Meter Street
 layout: page
 lang: de
 ---
-deutsch {{ page.lang }}
-> Simple and easy to use but powerful iOS App built to make light metering simple and effective. A must have for every film photographer.
+> Leistungsstarke und leicht zu bedienende und iOS App gemacht um Lichtmessungen schnell abzulesen. Speziell auf die Bedürfnisse von Analogfotografen konzipiert.
+
+Diese App ist konzipiert für einfache und schnelle Benutzung. Sie stellt gleichzeitig alle möglichen Verschlusszeit und Blendenzahl Kombinationen dar, die dem aktuellen Licht entsprechen. Sie müssen nur die ISO eingeben und alle weiteren Werte werden automatisch angezeigt.
+
 
 This app is a light meter designed for simplicity and ease of use. It offers you multiple time/aperture combinations at once that match your scene. Just dial in your ISO and the matching exposure value is displayed. You can highlight your favourite time and aperture which makes the reading even faster, since your eye is lead to the matching exposure.
 
