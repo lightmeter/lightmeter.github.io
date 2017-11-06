@@ -6,14 +6,6 @@ layout: page
 
 This app is a light meter designed for simplicity and ease of use. It offers you multiple time/aperture combinations at once that match your scene. Just dial in your ISO and the matching exposure value is displayed. You can highlight your favorite time and aperture which makes the reading even faster, since your eye is lead to the matching exposure.
 
-> Aperture settings tip: Select the minimum aperture you want to use or your lens supports. If your lens minimum aperture is not a full stop like e.g. 1.7, 1.8 or 3.5 simply use the next lower value.
-
-> Time settings tip: Dial in the lenses focal length as time, so camera shake is reduced. e.g. for a *50mm* lens dial in *60* which is the closest matching time
-
-Bokeh lovers choose the smallest possible aperture whereas landscape photographers often tend to the largest aperture that is possible without camera shake.
-
-The light meter offers an auto exposure mode that uses the Apple camera exposure algorithm, or you just touch into your scene for spot measurement. In spot meter mode the exposure is locked and you can make your reading or investigate the scene for over and underestimations.
-
 <div class="centered">
   <a href="#img1"><img src="/images/normal-en-small.png" /></a>
   <a href="#img2"><img src="/images/low-key-en-small.png" /></a>
@@ -40,7 +32,12 @@ The light meter offers an auto exposure mode that uses the Apple camera exposure
 - Saves battery and makes reading more relaxed since it offers you to stop reading the scene. If stopped the camera is will not consume energy
 - Support for older iPhone and iPad devices
 
-> Remember: a light meter assumes you measure an average grey scene. This is especially important if you decide for spot metering. If you e.g. spot meter a white wall, the final image will be exposed grey.
+### Tips
+- Aperture settings tip: Select the minimum aperture you want to use or your lens supports. If your lens minimum aperture is not a full stop like e.g. 1.7, 1.8 or 3.5 simply use the next lower value.
+- Time settings tip: Dial in the lenses focal length as time, so camera shake is reduced. e.g. for a *50mm* lens dial in *60* which is the closest matching time
+- Bokeh lovers choose the smallest possible aperture whereas landscape photographers often tend to the largest aperture that is possible without camera shake.
+- The light meter offers an auto exposure mode that uses the Apple camera exposure algorithm, or you just touch into your scene for spot measurement. In spot meter mode the exposure is locked and you can make your reading or investigate the scene for over and underestimations.
+- Remember: a light meter assumes you measure an average grey scene. This is especially important if you decide for spot metering. If you e.g. spot meter a white wall, the final image will be exposed grey.
 
 > Since the app is designed for simplicity there is no flash metering, incident metering or front camera support.
 
