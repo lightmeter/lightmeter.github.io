@@ -3,6 +3,10 @@ title: Light Meter Street
 layout: page
 lang: de
 ---
+<p class="badge">
+  <a href="https://itunes.apple.com/de/app/light-meter-street/id1176645870?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/de-de/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
+</p>
+
 > Leistungsstarke und leicht zu bedienende iOS App, gemacht um Lichtmessungen schnell abzulesen. Speziell auf die Bedürfnisse von Analogfotografen abgestimmt.
 
 Diese App ist für eine einfache und schnelle Benutzung konzipiert. Sie zeigt gleichzeitig alle passenden Zeit- /Blendenkombinationen an, die dem gemessenen Licht entsprechen. Sie müssen nur die ISO eingeben und alle weiteren Werte werden automatisch angezeigt. Zusätzlich kann eine Verschlusszeit und Blendenzahl markiert werden. Dies hilft Ihnen beim noch schnelleren Ablesen der Belichtungswerte.

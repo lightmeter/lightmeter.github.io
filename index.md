@@ -2,6 +2,10 @@
 title: Light Meter Street
 layout: page
 ---
+<p class="badge">
+  <a href="https://itunes.apple.com/us/app/light-meter-street/id1176645870?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
+</p>
+
 > Simple and easy to use but powerful iOS App built to make light metering simple and effective. A must have for every film photographer.
 
 This app is a light meter designed for simplicity and ease of use. It offers you multiple time/aperture combinations at once that match your scene. Just dial in your ISO and the matching exposure value is displayed. You can highlight your favorite time and aperture which makes the reading even faster, since your eye is lead to the matching exposure.
